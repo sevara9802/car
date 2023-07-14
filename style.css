@@ -7,7 +7,7 @@
   box-sizing: border-box;
 }
 header {
-  border: 2px solid blue;
+
 }
 .container {
   max-width: 1440px;
@@ -190,7 +190,7 @@ a {
 /* =========ikkinchi sectiony============ */
 .section {
   display: flex;
-  border: 2px solid green;
+
   gap: 125px;
   align-items: center;
   justify-content: center;
